@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">My Health</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="healthy_food">Healthy Food</string>
+    <string name="name">Name : %s </string>
+    <string name="calories">Calories : %s </string>
+    <string name="vitamin">Nutrient Content : %s </string>
+    <string name="title_detail">Disusun oleh \nLevel \nTeknologi \nEstimasi \nWebsite \n \nModul </string>
+    <string name="content_detail">Content Detail</string>
+
+    <string-array name="name">
+        <item>Oatmeal</item>
+        <item>Nuts</item>
+        <item>Orange Fruit</item>
+        <item>Yogurt</item>
+        <item>Raspberry</item>
+        <item>Green Tea</item>
+        <item>Avocado</item>
+        <item>Sweet Potatoes</item>
+        <item>Egg</item>
+        <item>Broccoli</item>
+    </string-array>
+
+    <string-array name="calories">
+        <item>67,6 kcal</item>
+        <item>347 kcal</item>
+        <item>44,9 kcal</item>
+        <item>58,8 kcal</item>
+        <item>52,6 kcal</item>
+        <item>2 kcal</item>
+        <item>160,1 kcal</item>
+        <item>85,8 kcal</item>
+        <item>155,1 kcal</item>
+        <item>33,7 kcal</item>
+    </string-array>
+
+    <string-array name="vitamin">
+        <item>High Fiber</item>
+        <item>Magnesium</item>
+        <item>Vitamin C</item>
+        <item>Calcium</item>
+        <item>Vitamin C</item>
+        <item>Antioxidants</item>
+        <item>Healthy Fats</item>
+        <item>Vitamin C, B6</item>
+        <item>Vitamin A, B5, B12, B2</item>
+        <item>Vitamin K, A, C</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/food1</item>
+        <item>@drawable/food2</item>
+        <item>@drawable/food3</item>
+        <item>@drawable/food4</item>
+        <item>@drawable/food5</item>
+        <item>@drawable/food6</item>
+        <item>@drawable/food7</item>
+        <item>@drawable/food8</item>
+        <item>@drawable/food9</item>
+        <item>@drawable/food10</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="keep_your_body_healthy">Keep Your Body</string>
+    <string name="kosong" />
+    <string name="about_me">About Me</string>
+    <string name="yuniar_islamiati">Yuniar Islamiati</string>
+    <string name="email">y.islmiati@gmail.com</string>
+    <string name="check_about_me">Check About Me</string>
+    <string name="check_body_health">Check Body Health</string>
+    <string name="check_your_bmi">Check your BMI</string>
+    <string name="calories_for_women">Calories For Women</string>
+    <string name="calories_for_men">Calories For Men</string>
+    <string name="check_your_calories">Check Your Calories</string>
+
+
+</resources>
